@@ -1,4 +1,6 @@
-
+.idea/
+keyfile
+keyfile.pub
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
